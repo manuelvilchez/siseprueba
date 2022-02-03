@@ -1,0 +1,16 @@
+COMANDO PARA INSERTAR TODOS LOS USUARIOS
+
+php artisan user:insert
+
+========================
+
+COMANDO PARA INSERTAR TODOS LOS POST
+
+php artisan post:insert
+
+
+===========================
+
+EJECUTAR TASK
+
+* * * * * cd /path-to-your-project && php artisan schedule:work
