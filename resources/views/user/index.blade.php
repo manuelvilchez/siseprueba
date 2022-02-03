@@ -5,7 +5,7 @@
     
 
     <div class="container mt-5">
-    <h1 class="text-center">Usuarios</h1>
+    <h1 class="text-center">Users</h1>
     <table class="table table-bordered">
         <thead>
             <tr>
